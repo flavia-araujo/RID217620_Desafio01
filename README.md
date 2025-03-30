@@ -1,3 +1,5 @@
 Desafio 01 da escola DNC - Criação de landing page.
 
-Sheet monkey https://docs.google.com/spreadsheets/d/1Wd_qYV_FCZ_saciZPY8TzevSHb2Bebn_rkW2H2YPODs/edit?usp=sharing
+Sheet monkey: https://docs.google.com/spreadsheets/d/1Wd_qYV_FCZ_saciZPY8TzevSHb2Bebn_rkW2H2YPODs/edit?usp=sharing
+
+NETLIFY: https://rid217620-desafio01.netlify.app/
